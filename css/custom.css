@@ -1,0 +1,17 @@
+body {
+    background-color: #191919;
+    color: white;
+}
+
+.header {
+    padding: 25px 0;
+    background-color: indigo;
+    color: white;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
